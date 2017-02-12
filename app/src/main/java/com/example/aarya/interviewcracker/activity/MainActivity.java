@@ -1,7 +1,9 @@
-package com.example.aarya.interviewcracker;
+package com.example.aarya.interviewcracker.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.aarya.interviewcracker.R;
 
 public class MainActivity extends AppCompatActivity {
 
